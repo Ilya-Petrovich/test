@@ -1,3 +1,6 @@
 Hello, Max!
-and every
+<<<<<<< HEAD
+add some crap
 asdasfasfdasf
+=======
+>>>>>>> parent of 871415b (update hello)
